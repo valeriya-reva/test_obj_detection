@@ -1,0 +1,10 @@
+path: ./data
+train: images 
+val: images
+
+# Classes (80 COCO classes)
+nc: 17
+names: [
+  'leukocyte',
+  'red_blood_cells'
+]
